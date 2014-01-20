@@ -1,0 +1,15 @@
+/.bundle
+
+*;*
+.backups
+.DS_Store
+log/*
+._*
+.__*
+*~
+*.swp
+.rvmrc
+.versions.conf
+.ruby-version
+*.gem
+tmp/*
