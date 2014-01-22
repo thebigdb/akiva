@@ -8,7 +8,7 @@ Akiva is a simple natural-language-processing, question-answering, artificial in
 Its main role is to take a question, deconstruct it in order to query the 
 collaborative database of facts [TheBigDB](http://thebigdb.com), and format the answer into something readable for a human.
 
-Akiva is obviously at a very early stage, and your contributions are more than welcome! See the "Contributing" section below for more info.
+Akiva is obviously at a very early stage, and your contributions are more than welcome! See the [Contributing](https://github.com/thebigdb/akiva#contributing) section below for more info.
 
 ## Why?
 
@@ -24,7 +24,7 @@ Fast forward **five more years**, and I'm sad to see this (as of January 6th, 20
 [Google](http://imgur.com/RWjgcoM), [Wolfram|Apha](http://imgur.com/4QOHcN1), [Yahoo!](http://imgur.com/KXYnoqA) and [Bing](http://imgur.com/oOTloSQ) fail to answer the simple question « Is the iPhone 5s heavier than the Galaxy S4? » (click their names to see the results given);  
 Akiva answers "**No (iPhone 5s => 112 grams; Galaxy S4 => 130 grams)**". With only a few lines of code.
 
-With the same few lines, Akiva can accurately smartly all the following questions:  
+With the same few lines, Akiva can accurately and smartly answer the following questions:  
 
 * « What are the weight, width and height of an iPhone 5s and a Galaxy S4 ? »   
 * « What is the height requirement for Space Mountain ? »  
