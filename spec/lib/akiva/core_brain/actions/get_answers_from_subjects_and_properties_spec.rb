@@ -1,3 +1,4 @@
+# encoding: utf-8
 require "spec_helper"
 
 # TODO rebuild specs like the preparators

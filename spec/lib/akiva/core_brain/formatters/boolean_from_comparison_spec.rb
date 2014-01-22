@@ -1,3 +1,4 @@
+# encoding: utf-8
 require "spec_helper"
 
 describe "Akiva CoreBrain Formatter boolean_from_comparison" do

@@ -132,7 +132,11 @@ describe "Akiva CoreBrain Helper: Units" do
       it "gives the correct answer" do
         u = Akiva::Brain::Helpers::Units.new("100 ly")
         u.convert("cm")
-        u.result.should == "9.460528412464108e+19"
+        if RUBY_VERSION >= "2.0"
+          u.result.should == "9.460528412464108e+19"
+        else
+          u.result.should == "94605284124641080000"
+        end
       end
     end
 

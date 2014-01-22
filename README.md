@@ -1,6 +1,8 @@
 Akiva
 =====
 
+[![Build Status](https://secure.travis-ci.org/thebigdb/akiva.png)](http://travis-ci.org/thebigdb/akiva)
+
 Akiva is a simple natural-language-processing, question-answering, artificial intelligence.
   
 Its main role is to take a question, deconstruct it in order to query the 
